@@ -1,1 +1,1 @@
-export default [{"text":"Usage","link":"/1"}]
+export default [{"text":"test","link":"/1"}]
